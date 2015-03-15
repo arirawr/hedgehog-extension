@@ -1,2 +1,2 @@
-# extension-practice
+# Hedgehog - the extension.
 First Chrome extension!
